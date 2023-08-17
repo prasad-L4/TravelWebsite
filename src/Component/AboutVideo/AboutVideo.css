@@ -1,0 +1,35 @@
+
+.about-video{
+    display: flex;
+    position: relative;
+    z-index: -1;
+    width: 100%;
+    height: auto;
+ margin-top: -5rem;
+    
+    flex-wrap: wrap;
+
+}
+.about-video-section{
+    position: relative;
+
+
+}
+.about-main-headline{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+
+
+  }
+
+
+.about-headline{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+   
+  font-family: 'Lilita One', cursive;
+}

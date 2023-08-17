@@ -1,0 +1,11 @@
+.ourstory,.our-mission,.our-history,.our-vision{
+    justify-content: center;
+    display: flex;
+    font-size: 2rem;
+    font-family: 'Lilita One', cursive;
+}
+.about-history,.about-mission,.about-vision,.about-story{
+    
+   
+    text-align: center;
+}

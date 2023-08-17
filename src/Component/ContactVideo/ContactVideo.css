@@ -1,0 +1,75 @@
+.contact-video{
+    display: flex;
+    position: relative;
+    z-index: -1;
+    width: 100%;
+    height: auto;
+ margin-top: -5rem;
+    
+    flex-wrap: wrap;
+
+}
+.contact-video-section{
+    position: relative;
+}
+.contact-main-headline{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%)
+  
+}
+.contact-headline{
+  
+    color: azure;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+  
+  
+   
+  font-family: 'Lilita One', cursive;
+}
+.form{
+    margin-top: 3rem;
+    display: flex;
+     text-align: center;
+    justify-content: center;
+}
+.form-input{
+    align-items: center;
+    justify-content: center;
+    
+    text-align: center;
+}
+.cnt-head{
+    
+display: flex;
+margin-top: 6rem;
+font-size: 3rem;
+font-family: 'Lilita One', cursive;
+  justify-content: center;
+   
+}.input-contact{
+    width: 30rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    height: 2rem;
+    align-items: center;
+}
+.send-btn{
+background-color:rgb(0, 0, 0);
+margin-top: 2rem;
+margin-bottom: 1rem;
+border: 0;
+color: white;
+height: 2rem;
+width: 8rem;
+border-radius: 20px;
+font-family:'Lilita One', cursive ;
+}
+.send-btn:hover{
+    transform: scale(1.2);
+    transition: transform 0.5s ease  
+}

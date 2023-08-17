@@ -1,0 +1,32 @@
+.service-video{
+    display: flex;
+    position: relative;
+    z-index: -1;
+    width: 100%;
+    height: auto;
+ margin-top: -5rem;
+    
+    flex-wrap: wrap;
+
+}
+.service-video-section{
+    position: relative;
+}
+.service-main-headline{
+    top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%)
+
+}
+.service-headline{
+  
+    color: azure;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+  
+  
+   
+  font-family: 'Lilita One', cursive;
+}
