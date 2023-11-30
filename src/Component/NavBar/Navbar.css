@@ -55,6 +55,8 @@ margin-top: -6px;
   /* NAVBAR MENU */
   .menu {
     display: flex;
+    align-items: center;
+    text-align: center;
     gap: 1em;
     font-size: 18px;
     border-radius: 20px;
@@ -72,7 +74,7 @@ margin-top: -6px;
   
   .menu li {
     padding: 5px 14px;
-    margin-top: 1.rem;
+    margin-top: rem;
   }
   
   /* DROPDOWN MENU */

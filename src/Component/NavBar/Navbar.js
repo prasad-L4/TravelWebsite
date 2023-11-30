@@ -29,11 +29,10 @@ function Navbar() {
             <li>
               <Link to="/contact">Contact</Link>
             </li>
-           
+          
           </div>
         </ul>
       </nav>
-      
     </div>
   );
 }
